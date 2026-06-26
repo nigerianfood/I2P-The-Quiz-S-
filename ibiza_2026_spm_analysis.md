@@ -19,7 +19,7 @@
 ## Data Table
 
 | # | Track | Artist | Track ID | Streams | Radio Playlist ID | Seed ✓ | Radio Saves | SPM Formula | **SPM** |
-|---|-------|--------|----------|---------|-------------------|--------|-------------|-------------|---------|
+|---|-------|--------|----------|---------|-------------------|--------|-------------|-------------|------|
 | 1 | Dreams | Prospa | `4F1J5Y890NaaTUOumYzYUX` | UNKNOWN | `37i9dQZF1E8MlUsN1bbrbG` | ✅ | 109 | 109 / UNKNOWN × 1M | **N/A** |
 | 2 | Shinjuku | Franky Rizardo | `0niU8VMrQzSNhrmsiLlmeS` | 2,652,065 | `37i9dQZF1E8L76jvkd4T4b` | ✅ | 2,050 | 2050 / 2652065 × 1M | **773** |
 | 3 | Call It What You Like | Robbie Doherty | `0o92pLHQhjyP2FdieF7xqw` | 10,956,087 | `37i9dQZF1E8KS2UjDqg2o4` | ✅ | 1,643 | 1643 / 10956087 × 1M | **150** |
@@ -57,9 +57,9 @@
 
 | Rank | Track | Artist | SPM | Streams | Radio Saves | Signal Read |
 |------|-------|--------|-----|---------|-------------|-------------|
-| 1 | Shinjuku | Franky Rizardo | **773** | 2,652,065 | 2,050 | 🔥 Extreme intent — low reach, massive save rate |
-| 2 | In This Bih' | Chris Lorenzo, Kah-Lo | **500** | 6,868,630 | 3,433 | 🔥 Strong conviction buyers |
-| 3 | Free Your Mind | Prospa, Cloonee | **479** | 12,111,637 | 5,795 | 🔥 High saves + scale = real stickiness |
+| 1 | Shinjuku | Franky Rizardo | **773** | 2,652,065 | 2,050 | Extreme intent — low reach, massive save rate |
+| 2 | In This Bih' | Chris Lorenzo, Kah-Lo | **500** | 6,868,630 | 3,433 | Strong conviction buyers |
+| 3 | Free Your Mind | Prospa, Cloonee | **479** | 12,111,637 | 5,795 | High saves + scale = real stickiness |
 | 4 | Baby | Prospa, Murda Beatz | **209** | 3,451,181 | 720 | Strong intent relative to reach |
 | 5 | La La Land | Green Velvet et al | **188** | 3,083,725 | 579 | Strong intent |
 | 6 | Call It What You Like | Robbie Doherty | **150** | 10,956,087 | 1,643 | Solid — meaningful saves at scale |
@@ -99,12 +99,12 @@
 
 ## Key Takeaways
 
-**Top signals (SPM ≥ 150):**
+**Top signals (SPM >= 150):**
 - **Shinjuku** (773) — outlier discovery pull, low streams = genuine underground momentum
 - **In This Bih'** (500) — surging saver interest relative to scale
 - **Free Your Mind** (479) — saves + streams at scale = algorithmic momentum candidate
 
-**Mid-tier signals (SPM 70–150):** Call It What You Like, Verano En NY, Baby, La La Land — all showing solid listener intent worth monitoring
+**Mid-tier signals (SPM 70-150):** Call It What You Like, Verano En NY, Baby, La La Land — all showing solid listener intent worth monitoring
 
 **Diluted but notable:** High On Me (SPM 39) has 54M+ streams already — saves have been absorbed into the mainstream listener base; no longer an early-signal name
 
