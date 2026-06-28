@@ -1,31 +1,31 @@
 track_number,track_name,artist,track_id,streams,radio_playlist_id,seed_verified,radio_saves,spm_formula,spm
 1,Lovers On The Dancefloor,BLOND:ISH,1NlIoNToanthaXHzapI3ct,326633,37i9dQZF1E8L8Xm2F0bsFV,YES,39,39/326633*1M,119
-2,Never Walk Alone,BLOND:ISH,1bE98D49uKNetOyLiaB8tG,152117095,,NO_SEED_MATCH,,no radio seed match,N/A
-3,Sete,BLOND:ISH,4u3XiAwJ2U9Kxgy57gcAPB,75093402,,NO_SEED_MATCH,,no radio seed match,N/A
+2,Never Walk Alone,BLOND:ISH,1bE98D49uKNetOyLiaB8tG,152117095,37i9dQZF1E8NccG09hIuAf,YES,4014,4014/152117095*1M,26
+3,Sete,BLOND:ISH,4u3XiAwJ2U9Kxgy57gcAPB,75093402,,WRONG_VERSION,,Sete Radio seeds to different track version (6YvEIuaWAkuLZMI1a2Qy9x),N/A
 4,Natural Blues,BLOND:ISH,0YMP9iIN0kPO3kp7pnxZpB,8543954,37i9dQZF1E8PqNSfG3M7Gx,YES,439,439/8543954*1M,51
 5,Fortnight (feat. Post Malone) - BLOND:ISH Remix,BLOND:ISH,1gejz5ROvJBUb6WJzkMAcc,42411567,37i9dQZF1E8KK1e5otHWof,YES,830,830/42411567*1M,20
 6,Wizard of Love - Radio Edit,BLOND:ISH,6XYDO1gWtN3ijDA9c6OH33,31037235,37i9dQZF1E8O9O8kMcJBjk,YES,1122,1122/31037235*1M,36
 7,Self Love,BLOND:ISH,51t4KpMubQMCQXV8T4lK3F,13557786,37i9dQZF1E8N1gxSS3HzYp,YES,194,194/13557786*1M,14
-8,Sorry (with Madonna),BLOND:ISH,5dW0cgZ9uV1W3PXtuTS5uP,53769883,,NO_SEED_MATCH,,Sorry Radio seeds to original Madonna version,N/A
-9,Es un secreto,BLOND:ISH,5TRubkfle0s3bQAPtBPQIf,14277382,,NO_SEED_MATCH,,no radio seed match,N/A
+8,Sorry (with Madonna),BLOND:ISH,5dW0cgZ9uV1W3PXtuTS5uP,53769883,37i9dQZF1E8NWq8a20TNQc,YES,2,2/53769883*1M,<1
+9,Es un secreto,BLOND:ISH,5TRubkfle0s3bQAPtBPQIf,14277382,37i9dQZF1E8LYYOjG9Olqj,YES,450,450/14277382*1M,32
 10,The Cure,BLOND:ISH,1lAHNCzi1yyaPZLOk35B8k,5733819,,NO_SEED_MATCH,,The Cure band results conflict,N/A
-11,Higher - Notre Dame Remix,BLOND:ISH,0J32M4Uc5qVhKwCvdDbACb,4554339,,NO_SEED_MATCH,,no radio seed match in top 5,N/A
-12,nothin lasts 4ever,BLOND:ISH,1uriDwfQjwE54CXc14xkSo,950294,,NO_SEED_MATCH,,no radio seed match,N/A
-13,Different Way - ARTBAT Remix,BLOND:ISH,18d6tKtNSpow0iQq1OCpIX,6590324,,NO_SEED_MATCH,,no radio seed match,N/A
-14,In Da Jungle,BLOND:ISH,1Dya7Lh8cLYg6t1q100xpY,499479,,NO_SEED_MATCH,,no radio seed match,N/A
-15,Remember Me,BLOND:ISH,54PCyKj5lICOgjk5WaC0li,UNKNOWN,,NO_SEED_MATCH,,no radio seed match,N/A
+11,Higher - Notre Dame Remix,BLOND:ISH,0J32M4Uc5qVhKwCvdDbACb,4554339,37i9dQZF1E8MtgqBwLM7AJ,YES,54,54/4554339*1M,12
+12,nothin lasts 4ever,BLOND:ISH,1uriDwfQjwE54CXc14xkSo,950294,37i9dQZF1E8MlotCpD87xi,YES,43,43/950294*1M,45
+13,Different Way - ARTBAT Remix,BLOND:ISH,18d6tKtNSpow0iQq1OCpIX,6590324,37i9dQZF1E8NsYSoTOx8bX,YES,35,35/6590324*1M,5
+14,In Da Jungle,BLOND:ISH,1Dya7Lh8cLYg6t1q100xpY,499479,37i9dQZF1E8LMWxPDZYwsl,YES,39,39/499479*1M,78
+15,Remember Me,BLOND:ISH,54PCyKj5lICOgjk5WaC0li,UNKNOWN,,NO_SEED_MATCH,,no radio seed match in top 5,N/A
 16,Hold Tight (feat. Darla Jade) - Extended Mix,BLOND:ISH,76IpIJqMRTgIg48LLmAGP6,5291640,,NO_SEED_MATCH,,Extended Mix version doesn't seed radio,N/A
-17,Can't Let You Go,BLOND:ISH,0JY4ARVQaqDj7rkWvRfNvV,6182001,,NO_SEED_MATCH,,no radio seed match,N/A
-18,Tra Tra,BLOND:ISH,0UFJLWij7K8AXM5sVDFCLj,17069691,,NO_SEED_MATCH,,no radio seed match,N/A
+17,Can't Let You Go,BLOND:ISH,0JY4ARVQaqDj7rkWvRfNvV,6182001,37i9dQZF1E8MzAgyznZK4c,YES,37,37/6182001*1M,6
+18,Tra Tra,BLOND:ISH,0UFJLWij7K8AXM5sVDFCLj,17069691,,NO_SEED_MATCH,,no radio seed match in top 5,N/A
 19,Call My Name,BLOND:ISH,0vQ2LIvx5U6QN7BnUHWwsJ,UNKNOWN,37i9dQZF1E8NEvv1ittUBL,YES,253,stream data unavailable,N/A
 20,No One,BLOND:ISH,5J72L91na30WRBYaCokV8i,1046889,,NO_SEED_MATCH,,Alicia Keys results dominate search,N/A
-21,Shout It Out,BLOND:ISH,6LcE4obnsOmnkLRpZCqtNF,7344656,,NO_SEED_MATCH,,no radio seed match,N/A
-22,Don't Cha,BLOND:ISH,4J3qGm51suBgqxJS59L6j4,2541901,,NO_SEED_MATCH,,no radio seed match,N/A
-23,Waves (feat. Grace Tither),BLOND:ISH,6ymVxYG0UHqIjXmclbE1cu,UNKNOWN,,NO_SEED_MATCH,,no radio seed match,N/A
-24,GOAT,BLOND:ISH,3PbYRiyLD48mzKbXZaa9L6,1253617,,NO_SEED_MATCH,,no radio seed match,N/A
-25,Kimbe (feat. Tay Iwar),BLOND:ISH,1Dvr0gNVK3Z1D0eOZ8OvFV,1272477,,NO_SEED_MATCH,,no radio seed match,N/A
+21,Shout It Out,BLOND:ISH,6LcE4obnsOmnkLRpZCqtNF,7344656,37i9dQZF1E8OjraOnRb4XK,YES,75,75/7344656*1M,10
+22,Don't Cha,BLOND:ISH,4J3qGm51suBgqxJS59L6j4,2541901,37i9dQZF1E8NOIsuhsWnMd,YES,158,158/2541901*1M,62
+23,Waves (feat. Grace Tither),BLOND:ISH,6ymVxYG0UHqIjXmclbE1cu,UNKNOWN,,NO_SEED_MATCH,,no radio seed match in top 5,N/A
+24,GOAT,BLOND:ISH,3PbYRiyLD48mzKbXZaa9L6,1253617,,NO_SEED_MATCH,,no radio seed match in top 5,N/A
+25,Kimbe (feat. Tay Iwar),BLOND:ISH,1Dvr0gNVK3Z1D0eOZ8OvFV,1272477,37i9dQZF1E8OVyvrPuqjeL,YES,27,27/1272477*1M,21
 26,It Starts Now,BLOND:ISH,4jGdL3hfHEcutGIgmOvk96,5646913,37i9dQZF1E8SjQ6q0g2K5B,YES,785,785/5646913*1M,139
 27,Garden Of 3Den - Edit,BLOND:ISH,0WC1DspD6f5pf6f7rCSFV4,UNKNOWN,37i9dQZF1E8NeOnpgDk4w0,YES,39,stream data unavailable,N/A
-28,Voyeur - Jay Shepheard & Martin Dawson Remix,BLOND:ISH,3D85zP4ws7sVLnGCU5guSh,UNKNOWN,,NO_SEED_MATCH,,no radio seed match,N/A
-29,Heartbreaker,BLOND:ISH,0RW5gl1bkGlvqtqCyhuipa,561107,,NO_SEED_MATCH,,no radio seed match,N/A
+28,Voyeur - Jay Shepheard & Martin Dawson Remix,BLOND:ISH,3D85zP4ws7sVLnGCU5guSh,UNKNOWN,,NO_SEED_MATCH,,no radio seed match in top 5,N/A
+29,Heartbreaker,BLOND:ISH,0RW5gl1bkGlvqtqCyhuipa,561107,,NO_SEED_MATCH,,no radio seed match in top 5,N/A
 30,Sorry (with Madonna) - Eran Hersh and Darmon Remix,BLOND:ISH,6S3MVxIm0U4uGXy5a3gEi1,1285049,37i9dQZF1E8MY6bAP0rIjC,YES,14,14/1285049*1M,11
