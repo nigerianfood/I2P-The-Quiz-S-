@@ -2,9 +2,8 @@
 **Playlist:** This Is BLOND:ISH (`37i9dQZF1DZ06evO3SHkVW`)
 **Playlist Saves:** 9,188
 **Tracks Analyzed:** 30
-**Tracks Scored:** 18
-**Seeds Found, Stream Data Unavailable:** 2 (tracks 19, 27)
-**Date:** 2026-06-28
+**Tracks Scored:** 20
+**Date:** 2026-06-28 (stream gaps for tracks 19 and 27 closed 2026-07-06 via mystreamcount API)
 
 ---
 
@@ -31,17 +30,19 @@ For each track, I searched Spotify for its title-only Radio playlist (e.g., "It 
 | 5 | Natural Blues | BLOND:ISH | 51 | 8,543,954 | 439 | Active underground discovery engine |
 | 6 | nothin lasts 4ever | BLOND:ISH | 45 | 950,294 | 43 | High ratio on micro-stream base |
 | 7 | Wizard of Love - Radio Edit | BLOND:ISH | 36 | 31,037,235 | 1,122 | Highest absolute saves in set |
-| 8 | Es un secreto | BLOND:ISH | 32 | 14,277,382 | 450 | Strong underground discovery signal |
-| 9 | Never Walk Alone | BLOND:ISH | 26 | 152,117,095 | 4,014 | Highest absolute saves; diluted by massive stream count |
-| 10 | Kimbe (feat. Tay Iwar) | BLOND:ISH | 21 | 1,272,477 | 27 | Small but coherent signal |
-| 11 | Fortnight (feat. Post Malone) - BLOND:ISH Remix | BLOND:ISH | 20 | 42,411,567 | 830 | Cross-fandom streams compress ratio |
-| 12 | Self Love | BLOND:ISH | 14 | 13,557,786 | 194 | Moderate catalog engagement |
-| 13 | Higher - Notre Dame Remix | BLOND:ISH | 12 | 4,554,339 | 54 | Low but present signal |
-| 14 | Sorry (with Madonna) - Eran Hersh and Darmon Remix | BLOND:ISH | 11 | 1,285,049 | 14 | Minimal active discovery |
-| 15 | Shout It Out | BLOND:ISH | 10 | 7,344,656 | 75 | Modest catalog activity |
-| 16 | Can't Let You Go | BLOND:ISH | 6 | 6,182,001 | 37 | Weak signal |
-| 17 | Different Way - ARTBAT Remix | BLOND:ISH | 5 | 6,590,324 | 35 | Near-floor signal |
-| 18 | Sorry (with Madonna) | BLOND:ISH | <1 | 53,769,883 | 2 | Effectively zero discovery intent |
+| 8 | Call My Name | BLOND:ISH | 33 | 7,694,437 | 253 | Solid mid-catalog discovery |
+| 9 | Es un secreto | BLOND:ISH | 32 | 14,277,382 | 450 | Strong underground discovery signal |
+| 10 | Never Walk Alone | BLOND:ISH | 26 | 152,117,095 | 4,014 | Highest absolute saves; diluted by massive stream count |
+| 11 | Kimbe (feat. Tay Iwar) | BLOND:ISH | 21 | 1,272,477 | 27 | Small but coherent signal |
+| 12 | Fortnight (feat. Post Malone) - BLOND:ISH Remix | BLOND:ISH | 20 | 42,411,567 | 830 | Cross-fandom streams compress ratio |
+| 13 | Self Love | BLOND:ISH | 14 | 13,557,786 | 194 | Moderate catalog engagement |
+| 14 | Higher - Notre Dame Remix | BLOND:ISH | 12 | 4,554,339 | 54 | Low but present signal |
+| 15 | Sorry (with Madonna) - Eran Hersh and Darmon Remix | BLOND:ISH | 11 | 1,285,049 | 14 | Minimal active discovery |
+| 16 | Shout It Out | BLOND:ISH | 10 | 7,344,656 | 75 | Modest catalog activity |
+| 17 | Garden Of 3Den - Edit | BLOND:ISH | 8 | 4,740,264 | 39 | Low catalog signal |
+| 18 | Can't Let You Go | BLOND:ISH | 6 | 6,182,001 | 37 | Weak signal |
+| 19 | Different Way - ARTBAT Remix | BLOND:ISH | 5 | 6,590,324 | 35 | Near-floor signal |
+| 20 | Sorry (with Madonna) | BLOND:ISH | <1 | 53,769,883 | 2 | Effectively zero discovery intent |
 
 ---
 
@@ -75,7 +76,7 @@ For each track, I searched Spotify for its title-only Radio playlist (e.g., "It 
 
 **Sorry (with Madonna) BLOND:ISH original version (SPM <1) is effectively zero.** The radio playlist exists and seeds to the correct BLOND:ISH track version, but with only 2 saves on 53.8M streams, there is no discovery intent signal. This may reflect that the radio algorithm draws listeners from the massive Madonna stream base who are not BLOND:ISH discovery-seekers.
 
-**Two seeds found with no calculable SPM:** Call My Name (253 radio saves) and Garden Of 3Den - Edit (39 saves) both have verified radio playlists, but stream counts are below kworb's tracking threshold. Call My Name's 253 saves suggests it may have a meaningful signal if confirmed.
+**Call My Name and Garden Of 3Den - Edit are now scored** (stream counts recovered via the mystreamcount API on 2026-07-06). Call My Name lands at SPM 33 — the "meaningful signal if confirmed" hypothesis held: 253 saves on 7.7M streams is solid mid-catalog discovery. Garden Of 3Den - Edit comes in at SPM 8, low catalog activity.
 
 ---
 
@@ -98,20 +99,9 @@ These tracks had no matching Spotify radio playlist in the top 5 results, the ve
 
 ---
 
-## Seeds Found, Stream Data Unavailable (2 tracks)
-
-Radio playlist seeds verified but stream counts below kworb tracking threshold and not visible on Spotify track page — SPM cannot be calculated:
-
-| # | Track | Radio Playlist ID | Radio Saves |
-|---|-------|-------------------|-------------|
-| 19 | Call My Name | `37i9dQZF1E8NEvv1ittUBL` | 253 |
-| 27 | Garden Of 3Den - Edit | `37i9dQZF1E8NeOnpgDk4w0` | 39 |
-
----
-
 ## Raw Data Reference
 
 See `blondish_this_is_spm_analysis.csv` for full worksheet.
 
-**Stream source:** kworb.net Spotify songs page (all-time totals for BLOND:ISH artist ID `6zsJjoCtL1WByG0VsuFWzR`).
+**Stream sources:** kworb.net Spotify songs page (all-time totals for BLOND:ISH artist ID `6zsJjoCtL1WByG0VsuFWzR`); mystreamcount.com API for tracks 19 and 27 (fetched 2026-07-06).
 **Save counts:** Fetched directly from each radio playlist's Spotify page.
